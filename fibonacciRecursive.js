@@ -16,6 +16,6 @@ function fibonacciRecursiveAnother(num) {
   }
   return fibonacciRecursive(num - 1) + fibonacciRecursive(num - 2);
 }
-console.log(fibonacciRecursive(0));
-console.log(fibonacciRecursive(1));
-console.log(fibonacciRecursive(6));
+console.log(fibonacciRecursive(0)); // 0
+console.log(fibonacciRecursive(1)); // 1
+console.log(fibonacciRecursive(6)); // 8

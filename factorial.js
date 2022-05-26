@@ -21,6 +21,6 @@ function factorialFor(num) {
   return result;
 }
 
-console.log(factorialFor(0));
-console.log(factorial(4));
-console.log(factorialFor(5));
+console.log(factorialFor(0)); // 1
+console.log(factorial(4)); // 24
+console.log(factorialFor(5)); // 120

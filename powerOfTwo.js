@@ -41,6 +41,6 @@ function powerOfTwoBitwise(num) {
   // OR return n & (n-1)
 }
 
-console.log(powerOfTwo(1));
-console.log(powerOfTwoAnother(2));
-console.log(powerOfTwoBitwise(5));
+console.log(powerOfTwo(1)); // true
+console.log(powerOfTwoAnother(2)); // true
+console.log(powerOfTwoBitwise(5)); // false
