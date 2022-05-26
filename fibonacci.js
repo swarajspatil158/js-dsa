@@ -1,4 +1,4 @@
-// while loop
+// while loop | Big-O = O(n)
 function fibonacciWhileLoop(num) {
   let arr = [0, 1];
   let n1 = 0;
@@ -13,7 +13,7 @@ function fibonacciWhileLoop(num) {
   return arr;
 }
 
-// for loop
+// for loop | Big-O = O(n)
 function fibonacciForLoop(num) {
   const fib = [0, 1];
   for (let i = 2; i < num; i++) {

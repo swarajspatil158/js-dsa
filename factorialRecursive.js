@@ -1,3 +1,4 @@
+// Big-O = O(n)
 function factorialRecursive(num) {
   if (num < 2) {
     return 1;
