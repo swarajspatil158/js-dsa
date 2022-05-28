@@ -1,2 +1,2 @@
 # js-dsa
-JavaScipt Problem Solving
+JavaScript Problem Solving
